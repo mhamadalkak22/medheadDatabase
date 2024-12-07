@@ -178,17 +178,17 @@ SET IDENTITY_INSERT [dbo].[account_type] OFF
 GO
 SET IDENTITY_INSERT [dbo].[addresse] ON 
 GO
-INSERT [dbo].[addresse] ([addresseid], [display_name], [icon], [lat], [lon]) VALUES (10, N'American University Hospital, Maamari Street, El Hamra, Beirut, El Hamra, Ras Beirut, Beirut Governorate, 1103, Lebanon', N'https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png', N'33.8985594', N'35.4849331')
+INSERT [dbo].[addresse] ([addresseid], [display_name], [icon], [lat], [lon]) VALUES (10, N'Hermel Public Hospital, Main Road, Hermel, Bekaa, Hermel District, Bekaa Governorate, Lebanon', N'https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png', N'34.395819', N'36.379700')
 GO
-INSERT [dbo].[addresse] ([addresseid], [display_name], [icon], [lat], [lon]) VALUES (11, N'Al Rassoul Al Azam Hospital, El Imam El Khomayni, Burj El Brajneh, Baabda District, Mount Lebanon Governorate, 1001, Lebanon', N'https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png', N'33.84364195', N'35.49916905902286')
+INSERT [dbo].[addresse] ([addresseid], [display_name], [icon], [lat], [lon]) VALUES (11, N'Zahle Regional Medical Center, Zahle Boulevard, Zahle, Bekaa, Zahle District, Bekaa Governorate, Lebanon', N'https://nominatim.openstreetmap.org/ui/mapicons/health_clinic.p.20.png', N'33.848819', N'35.903619')
 GO
-INSERT [dbo].[addresse] ([addresseid], [display_name], [icon], [lat], [lon]) VALUES (12, N'Hôtel Dieu, Alfred Naccache Road, Adliyeh, Hotel Dieu, Achrafieh, Beirut Governorate, 1100, Lebanon', N'https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png', N'33.881951400000005', N'35.51894843839874')
+INSERT [dbo].[addresse] ([addresseid], [display_name], [icon], [lat], [lon]) VALUES (12, N'Bekaa Valley General Hospital, Main Avenue, Chtaura, Bekaa, West Bekaa, Bekaa Governorate, Lebanon', N'https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png', N'33.810728', N'35.833011')
 GO
-INSERT [dbo].[addresse] ([addresseid], [display_name], [icon], [lat], [lon]) VALUES (13, N'Al Zahraa University Medical Center, Cheikh Sabah Al-Salem Al-Sabah, Bir Hassan, Jnah, Baabda District, Mount Lebanon Governorate, 2833 4219, Lebanon', N'https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png', N'33.863760799999994', N'35.48693199825297')
+INSERT [dbo].[addresse] ([addresseid], [display_name], [icon], [lat], [lon]) VALUES (13, N'Riyaq Advanced Clinic, Riyaq Road, Riyaq, Bekaa, Zahle District, Bekaa Governorate, Lebanon', N'https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png', N'33.854928', N'35.927500')
 GO
-INSERT [dbo].[addresse] ([addresseid], [display_name], [icon], [lat], [lon]) VALUES (14, N'Polyclinique Avicenne, Boulevard Achalme, Marcory Résidentiel, Marcory, Abidjan, Côte d''Ivoire', N'https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png', N'5.3162153', N'-3.9966557')
+INSERT [dbo].[addresse] ([addresseid], [display_name], [icon], [lat], [lon]) VALUES (14, N'Chamsine Specialized Hospital, Chamsine Street, Zahle, Bekaa, Zahle District, Bekaa Governorate, Lebanon', N'https://nominatim.openstreetmap.org/ui/mapicons/health_clinic.p.20.png', N'33.848819', N'35.911700')
 GO
-INSERT [dbo].[addresse] ([addresseid], [display_name], [icon], [lat], [lon]) VALUES (15, N'Nouvelle Clinique Farah, Rue des Framirés, Marcory, Abidjan, Côte d''Ivoire', N'https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png', N'5.3106702', N'-3.9864509915505337')
+INSERT [dbo].[addresse] ([addresseid], [display_name], [icon], [lat], [lon]) VALUES (15, N'Al Yammouneh Health Center, Al Yammouneh Road, Al Yammouneh, Bekaa, Baalbek District, Bekaa Governorate, Lebanon', N'https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png', N'34.132819', N'36.213700')
 GO
 SET IDENTITY_INSERT [dbo].[addresse] OFF
 GO
